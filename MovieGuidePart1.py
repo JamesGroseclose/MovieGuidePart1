@@ -1,3 +1,7 @@
+# James Groseclose CIS 261
+# Movie Guide Part 1
+
+
 #!/usr/bin/env python3
 
 def display_menu():
